@@ -14,6 +14,6 @@ public class GitTest {
         System.out.println("hot-fix test!");
         System.out.println("push test!");
         System.out.println("push test4！！！！!");
-
+        System.out.println("何建华在远端做了改变，你在本地库能看到说明pull成功啦!");
     }
 }
